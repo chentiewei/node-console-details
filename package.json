@@ -1,6 +1,6 @@
 {
   "name": "node-console-details",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "console.log 打印时显示具体位置",
   "main": "console.js",
   "scripts": {
