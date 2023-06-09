@@ -1,0 +1,11 @@
+{
+  "name": "node-console-details",
+  "version": "1.0.1",
+  "description": "console.log 打印时显示具体位置",
+  "main": "console.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
