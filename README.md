@@ -21,3 +21,4 @@ consoleFun()
 console.log(consoleFun)
 ```
 ## git地址：https://github.com/chentiewei/node-console-details
+## 语雀地址：https://www.yuque.com/chentiewei/base/bguuoryd56vwtmeg
