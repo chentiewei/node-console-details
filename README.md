@@ -20,3 +20,4 @@ var consoleFun = require('node-console-details');
 consoleFun()
 console.log(consoleFun)
 ```
+## git地址：https://github.com/chentiewei/node-console-details
